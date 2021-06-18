@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "webp-converter": "^2.3.3"
+    "cwebp-bin": "^6.1.1",
+    "uuid": "^8.3.2"
   }
 }
